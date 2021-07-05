@@ -1,5 +1,5 @@
 ### `Tutorial Build a Weather App in React JS`
-Conceitps básicos em React JS
+Conceitos básicos em React JS.
 Conceitos básicos de API
 
 ### `Link do tutorial no youtube`
